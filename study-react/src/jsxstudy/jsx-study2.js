@@ -1,5 +1,5 @@
 import React from "react";
-import  ReactDOM  from "react";
+import  ReactDOM  from "react-dom";
 
 const div = <div>
 
@@ -39,8 +39,9 @@ const div3 =<div>
 const age = 20
 const div4=<div>
     <>{age >= 20 ? <div>성인 </div>:<div>미성년자</div>}</>
-
+    
 </div>
+
 
 
 const mystyle ={color: "red", backgroundColor: "lightblue"};
