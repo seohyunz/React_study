@@ -2,4 +2,6 @@
 //import './jsxstudy/jsx-study2';
 //npm start
 //import './component-basic/first-component';
-import './component-basic/props-basic';
+//import './component-basic/props-basic';
+//import './component-basic/props-children';
+import './component-intermediate/state-study-3';
