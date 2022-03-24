@@ -4,4 +4,5 @@
 //import './component-basic/first-component';
 //import './component-basic/props-basic';
 //import './component-basic/props-children';
-import './component-intermediate/state-study-3';
+//import './component-intermediate/state-study-with-inner-object';
+import './component-intermediate/mainpulate.js'
