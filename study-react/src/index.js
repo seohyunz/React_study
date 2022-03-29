@@ -5,4 +5,5 @@
 //import './component-basic/props-basic';
 //import './component-basic/props-children';
 //import './component-intermediate/state-study-with-inner-object';
-import './component-intermediate/mainpulate.js'
+//import './component-intermediate/mainpulate.js'
+import './component-intermediate/todo-app-demo.js'
