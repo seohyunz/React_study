@@ -6,4 +6,6 @@
 //import './component-basic/props-children';
 //import './component-intermediate/state-study-with-inner-object';
 //import './component-intermediate/mainpulate.js'
-import './component-intermediate/todo-app-demo.js'
+//import './component-intermediate/todo-app-demo.js'
+//import './use-effect-demo/use-effect-intro.js'
+import './use-effect-demo/use-effect-using-local-storage.js'
