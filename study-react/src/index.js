@@ -12,4 +12,6 @@
 //import './use-effect-demo/use-effect-unmount.js'
 //import './use-effect-demo/use-effect-unmount-deps.js'
 //import './component-intermediate/counter-demo.js'
-import './use-effect-demo/timer_cilickgame.js'
+//import './use-effect-demo/timer_cilickgame.js'
+//import './use-effect-demo/use-effect-fetch-api.js'
+import './component-advanced/reservation-form'

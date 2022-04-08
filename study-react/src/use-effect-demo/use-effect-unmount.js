@@ -20,7 +20,7 @@ function UseEffectUnmountDemo(props) {
             clearInterval(id)
             console.log('unmount 진행')
         }
-    }, [])
+    }, []) 
 
     return <div>{count}</div>
 }
