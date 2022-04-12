@@ -14,4 +14,6 @@
 //import './component-intermediate/counter-demo.js'
 //import './use-effect-demo/timer_cilickgame.js'
 //import './use-effect-demo/use-effect-fetch-api.js'
-import './component-advanced/reservation-form'
+//import './component-advanced/reservation-form'
+//import './use-effect-demo/use-effect-fetch-api.js'
+import './component-advanced/contexts/UserContext.js'
