@@ -6,7 +6,7 @@ fetch('https://api.github.com/users/seohyunz/repos',{
 })
 
 
-const Item = (props) => {
+const NewsItem = (props) => {
     const {title, description, url, urlToImage} = props.article
     return (
         <div>
