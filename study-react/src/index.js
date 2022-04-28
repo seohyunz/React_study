@@ -18,4 +18,5 @@
 //import './use-effect-demo/use-effect-fetch-api.js'
 //import './component-advanced/contexts/fakelogin.js'
 //import './component-style/using-css.js'
-import './use-reducer-demo/use-reducer-counter-1.js'
+//import './use-reducer-demo/use-reducer-todo-app-1.js'
+import './use-callback-memo-demo/use-memo-demo.js'
